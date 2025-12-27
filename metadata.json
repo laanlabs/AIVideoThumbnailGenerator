@@ -1,0 +1,5 @@
+{
+  "name": "ThumbStyle AI - Thumbnail Reimagined",
+  "description": "A powerful React application that uses Gemini 2.5 Flash Image to transform simple video thumbnails into high-quality, professional variations across multiple styles like Cinematic, Cyberpunk, and Clean Tech.",
+  "requestFramePermissions": []
+}
